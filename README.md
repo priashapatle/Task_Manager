@@ -4,6 +4,11 @@ A high-fidelity, interactive full-stack Task Management application designed for
 
 ---
 
+## Live Demo -
+https://task-manager-alpha-ivory.vercel.app/
+
+---
+
 ## 📱 App Live Preview & Deployment
 The frontend prototype has been successfully compiled and deployed live. 
 **Deployment Platform:** Vercel
