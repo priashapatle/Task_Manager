@@ -19,7 +19,7 @@ The frontend prototype has been successfully compiled and deployed live.
 ## 🛠 Tech Stack & Architecture
 
 ### Frontend Ecosystem
-**Framework:** React Native / React (Expo CLI optimized)
+**Framework:** React Native / React (Expo CLI optimized) 
 **State Management:** Redux Toolkit (RTK) with Slice-based architecture
 **Styling Engine:** Tailwind CSS / NativeWind
 **Iconography:** Lucide React / Vector Icons
